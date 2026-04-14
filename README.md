@@ -1,13 +1,9 @@
 # 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00ffcc&height=250&section=header&text=Alibek%20-%20DevSec&fontSize=70&fontAlignY=35&desc=Frontend%20Developer%20|%20Kiberxavfsizlik%20Ishqibozi&descSize=20&descAlignY=60" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://media.tenor.com/A6B7q7OqI74AAAAj/hello-panda.gif" width="100px"/>
-</p>
-<h1 align="center">Salom, Dunyo! Men Alibekman 👋</h1>
+
+
+<h1 align="center">Salom, mening ismim Alibek Jumanazarov 👋</h1>
 
 ## 👨‍💻 Men Haqimda
 
