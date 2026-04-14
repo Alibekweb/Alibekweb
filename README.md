@@ -27,33 +27,9 @@
 
 <br/>
 
-## 📊 GitHub Statistikam
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIZNING_USERNAME&show_icons=true&theme=vortex&count_private=true&include_all_commits=true" alt="Alibek GitHub Stats" height="190em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIZNING_USERNAME&layout=compact&theme=vortex" alt="Alibek Top Languages" height="190em" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIZNING_USERNAME&theme=vortex&hide_border=false" alt="Alibek GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://media.tenor.com/O6L60T8P_wIAAAAj/cyberpunk-2077.gif" width="100%"/>
-</p>
 
-## 📫 Men bilan bog'lanish
-
-<p align="left">
-  <a href="https://t.me/SIZNING_TELEGRAM_LINK" target="_blank">
-    <img src="https://media.tenor.com/M6L5P18Ff9IAAAAj/telegram.gif" alt="Telegram" width="50" height="50"/>
-  </a>
-  <a href="mailto:SIZNING_EMAIL@gmail.com" target="_blank">
-    <img src="https://media.tenor.com/E9t3S-5Xm_EAAAAj/email.gif" alt="Email" width="50" height="50"/>
-  </a>
-  <a href="https://linkedin.com/in/SIZNING_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://media.tenor.com/K_DkXw53G_EAAAAj/linkedin.gif" alt="LinkedIn" width="50" height="50"/>
-  </a>
-</p>
 
 ---
 <p align="center">
