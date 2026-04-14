@@ -17,7 +17,7 @@
 - 🎓 **Al-Xorazmiy vorislari** loyihasining faol ishtirokchisiman.
 - 🛡️ **Kiberxavfsizlik:** Men uchun nafaqat qiziqish, balki har bir kodimda xavfsizlikni ta'minlash ustuvor vazifa.
 - 💡 **Maqsadim:** Innovatsion startup loyihalarini texnik va xavfsizlik tarafdan professional darajaga ko'tarish.
-- 🎮 **Hobbim:** Bo'sh vaqtimda kod yozish va PUBG Mobile (Metro Royale) olamida sarguzashtlar.
+- 🎮 **Hobbim:** Bo'sh vaqtimda kod yozish va PUBG Mobile olamida sarguzashtlar.
 
 <br/>
 
